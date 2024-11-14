@@ -11,6 +11,9 @@
     max-width: 992px;
     margin: 0 auto;
 }
+h1{
+    margin: 100px 0;
+}
 #tombola{
     max-width: 450px;
     margin: 0 auto;
