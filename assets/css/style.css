@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Outfit", sans-serif;
+    text-align: center;
+    background-color: #131334;
+    color: #ebebeb;
+}
+.container{
+    max-width: 992px;
+    margin: 0 auto;
+}
+#tombola{
+    max-width: 450px;
+    margin: 0 auto;
+    margin-bottom: 3em;
+}
+#tombola div{
+    display: inline-block;
+    width: 45px;
+    height: 45px;
+    border: 1px solid white;
+
+
+}
+button{
+    background-color: rgb(255, 115, 0);
+    border: none;
+    width: 130px;
+    height: 45px;
+    font-size: 1.5em;
+    color: white;
+    font-weight: 900;
+    border-radius: 8px;   
+}
+button:hover{
+    cursor: pointer;
+    background-color: rgb(204, 93, 2);
+}
+.estratto{
+    background-color: yellowgreen;
+    color: black;
+}
